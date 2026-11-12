@@ -1,0 +1,5 @@
+# Raw Indego data downloads (~200 MB zips, ~1.4 GB extracted).
+# analyze.py re-downloads them from rideindego.com if missing.
+data/
+__pycache__/
+*.pyc
